@@ -1,2 +1,1 @@
-# Kotlin Coroutines Tasks
-## Design Patterns MVVM Task
+# Kotlin Coroutines Tasks and Design Patterns MVVM Task
